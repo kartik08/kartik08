@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+I’m Kartik Shah, a Big Data student based in Toronto, Canada.
 
 <!--
 **kartik08/kartik08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
